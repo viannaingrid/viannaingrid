@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Starbem
 
-🌱 I’m currently learning JavaScript, ReactJS
+🌱 I’m currently learning on a BootCamp for BackEnd in Java at DIO and Santander
 
 
 <div>
