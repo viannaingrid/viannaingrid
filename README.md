@@ -3,8 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=991&color=F751DD&random=false&width=442&lines=HI!+Welcome+to+my+profile;I'm+Ingrid+Vianna;I'm+Learning+to+be+;a+FullStack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E133F7&random=false&width=435&lines=Hi!+I'm+Ingrid+Vianna;And+I'm+a+FrontEnd+Developer)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
