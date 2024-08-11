@@ -1,8 +1,3 @@
-<img width=100% bottom=50px src="https://github.com/viannaingrid/viannaingrid/assets/65928337/0af23d01-e29c-499c-bdf7-aae2631e4f1d" />
-<br>
-<br>
-<br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E133F7&random=false&width=435&lines=Hi!+I'm+Ingrid+Vianna;And+I'm+a+FrontEnd+Developer)](https://git.io/typing-svg)
 <br>
 <br>
