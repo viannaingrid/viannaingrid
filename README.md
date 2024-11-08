@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Techs</p>
+<h2>Techs</h2>
 
 ###
 
@@ -22,8 +22,7 @@
 </div>
 
 ###
-
-<p align="left">Stats</p>
+<h2>Stats</h2>
 
 ###
 
