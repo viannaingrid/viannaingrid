@@ -5,7 +5,7 @@
 <h3 align="left">🎓 Sobre Mim</h3>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
 <p align="left" >
-  Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos avançados em HTML, CSS, JavaScript, SQL e metodologias ágeis como Scrum. Tenho experiência prática em suporte técnico e na resolução de problemas em ambientes corporativos, além de habilidades intermediárias em inglês. Atualmente, aprimoro minhas competências em MySQL, HTML, CSS, Sass e JavaScript, e sou motivada por inovação e melhoria contínua.
+  Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos avançados em HTML, CSS, Sass, JavaScript, SQL e metodologias ágeis como Scrum. Tenho experiência prática em suporte técnico e na resolução de problemas em ambientes corporativos, além de habilidades intermediárias em inglês. Atualmente, aprimoro minhas competências em MySQL, HTML, CSS, Sass e JavaScript, e sou motivada por inovação e melhoria contínua.
 </p>
 <br>
 <h3 align="left">🚀 Tecnologias</h3>
