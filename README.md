@@ -39,8 +39,9 @@
 <br>
 <h3 align="left">🛠 Habilidades Técnicas</h3>
 <ul>
-  <li><strong>Linguagens:</strong> HTML, CSS, JavaScript, SQL</li>
+  <li><strong>Linguagens:</strong> HTML, CSS, SASS, JavaScript, SQL, TypeScript</li>
   <li><strong>Desenvolvimento Ágil:</strong> Scrum</li>
+  <li><strong>Framework:</strong> ReactJs e AngularJs</li>
   <li><strong>Infraestrutura:</strong> Arquitetura de Sistemas, Redes de Computadores</li>
   <li><strong>Ferramentas:</strong> GitHub, Active Directory, AnyDesk</li>
 </ul>
