@@ -38,11 +38,9 @@
 <h3 align="left">📊 Estatísticas GitHub</h3>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viannaingrid&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaingrid&layout=compact&langs_count=5&theme=omni" height="215" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viannaingrid&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="235" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaingrid&layout=compact&langs_count=5&theme=omni" height="200" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viannaingrid&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viannaingrid&theme=tokyonight&utcOffset=8" height="250"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viannaingrid&theme=tokyonight" height="250"/>
 </div>
 
 <br>
