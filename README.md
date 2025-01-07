@@ -4,6 +4,9 @@
 <br>
 <h3 align="left">🎓 Sobre Mim</h3>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
+<p>
+  Tenho 25 anos e sou estudante de ADS (Análise e desenvolvimento de sistemas)
+</p>
 <p align="left" >
   Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos avançados em HTML, CSS, Sass, JavaScript, SQL e metodologias ágeis como Scrum. Tenho experiência prática em suporte técnico e na resolução de problemas em ambientes corporativos, além de habilidades intermediárias em inglês. Atualmente, aprimoro minhas competências em MySQL, HTML, CSS, Sass e JavaScript, e sou motivada por inovação e melhoria contínua.
 </p>
@@ -48,9 +51,41 @@
 <br>
 <h3 align="left">📊 Estatísticas GitHub</h3>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viannaingrid&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="235" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaingrid&layout=compact&langs_count=5&theme=omni" height="200" alt="languages graph" />
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=viannaingrid&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaingrid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=viannaingrid&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viannaingrid&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -72,6 +107,9 @@
   </a>
 </div>
 <br>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/viannaingrid/count.svg?" alt="Visitor Count" />
 </div>
