@@ -34,7 +34,6 @@
 <h3 align="left">🌱 Atualmente Aprendendo</h3>
 <ul>
   <li>Desenvolvimento FullStack pelo Vai na Web</li>
-  <li>Desenvolvimento Front End pela AdaTech no Santander</li>
   <li>Conceitos avançados de JavaScript</li>
   <li>Desenvolvimento responsivo e adaptações para dispositivos móveis</li>
   <li>Framework Angular e Typescript</li>
