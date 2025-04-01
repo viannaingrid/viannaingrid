@@ -8,7 +8,7 @@
   Tenho 25 anos e sou estudante de ADS (Análise e desenvolvimento de sistemas)
 </p>
 <p align="left" >
-  Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos avançados em HTML, CSS, Sass, JavaScript, SQL e metodologias ágeis como Scrum. Tenho experiência prática em suporte técnico e na resolução de problemas em ambientes corporativos, além de habilidades intermediárias em inglês. Atualmente, aprimoro minhas competências em MySQL, HTML, CSS, Sass e JavaScript, e sou motivada por inovação e melhoria contínua.
+  Estudante de Análise e Desenvolvimento de Sistemas com experiência em suporte técnico e resolução de problemas em ambientes corporativos. Possuo sólidos conhecimentos em HTML, CSS, Sass, JavaScript, TypeScript, SQL e metodologias ágeis como Scrum. Atualmente, estou aprimorando minhas habilidades em MySQL e desenvolvimento front-end, estudando o framework Angular e aprofundando meus conhecimentos em TypeScript. Tenho inglês intermediário e estou em constante evolução para me destacar no mercado de tecnologia.🚀
 </p>
 <br>
 <h3 align="left">🚀 Tecnologias</h3>
