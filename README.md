@@ -33,7 +33,7 @@
 <br>
 <h3 align="left">🌱 Atualmente Aprendendo</h3>
 <ul>
-  <li>Desenvolvimento FullStack pelo Vai na Web</li>
+  <li>Desenvolvimento BackEnd pela Alura</li>
   <li>Conceitos avançados de JavaScript</li>
   <li>Desenvolvimento responsivo e adaptações para dispositivos móveis</li>
   <li>Framework Angular e Typescript</li>
