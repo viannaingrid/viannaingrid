@@ -3,7 +3,7 @@
 <h1 align="left">Meu nome é Ingrid Vianna de Oliveira 💕</h1>
 <br>
 <h3 align="left">🎓 Sobre Mim</h3>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlyeGk0cWI2dnF1ZHI4dHB1aDQ3M3BxOXU5Nm9lNzZ4bXpicWc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" alt="Coding gif" />
 <p>
   Tenho 25 anos e sou estudante de ADS (Análise e desenvolvimento de sistemas)
 </p>
