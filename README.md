@@ -33,10 +33,8 @@
 <br>
 <h3 align="left">🌱 Atualmente Aprendendo</h3>
 <ul>
-  <li>Desenvolvimento BackEnd pela Alura</li>
-  <li>Conceitos avançados de JavaScript</li>
-  <li>Desenvolvimento responsivo e adaptações para dispositivos móveis</li>
   <li>Framework Angular e Typescript</li>
+  <li>Desenvolvimento responsivo e adaptações para dispositivos móveis</li>
 </ul>
 <br>
 <h3 align="left">🛠 Habilidades Técnicas</h3>
@@ -45,7 +43,7 @@
   <li><strong>Desenvolvimento Ágil:</strong> Scrum</li>
   <li><strong>Framework:</strong> ReactJs e AngularJs</li>
   <li><strong>Infraestrutura:</strong> Arquitetura de Sistemas, Redes de Computadores</li>
-  <li><strong>Ferramentas:</strong> GitHub, Active Directory, AnyDesk</li>
+  <li><strong>Ferramentas:</strong> GitHub, Active Directory, AnyDesk, VSCode</li>
 </ul>
 <br>
 <h3 align="left">📊 Estatísticas GitHub</h3>
