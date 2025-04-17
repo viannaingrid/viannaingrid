@@ -41,7 +41,7 @@
 <ul>
   <li><strong>Linguagens:</strong> HTML, CSS, SASS, JavaScript, SQL, TypeScript</li>
   <li><strong>Desenvolvimento Ágil:</strong> Scrum</li>
-  <li><strong>Framework:</strong> ReactJs e AngularJs</li>
+  <li><strong>Framework:</strong> ReactJs e Angular16+</li>
   <li><strong>Infraestrutura:</strong> Arquitetura de Sistemas, Redes de Computadores</li>
   <li><strong>Ferramentas:</strong> GitHub, Active Directory, AnyDesk, VSCode, Postman, Insomnia</li>
 </ul>
