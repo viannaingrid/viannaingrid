@@ -11,24 +11,33 @@
   Estudante de Análise e Desenvolvimento de Sistemas com experiência em suporte técnico e resolução de problemas em ambientes corporativos. Possuo sólidos conhecimentos em HTML, CSS, Sass, JavaScript, TypeScript, SQL e metodologias ágeis como Scrum. Atualmente, estou aprimorando minhas habilidades em MySQL e desenvolvimento front-end, estudando o framework Angular e aprofundando meus conhecimentos em TypeScript. Tenho inglês intermediário e estou em constante evolução para me destacar no mercado de tecnologia.🚀
 </p>
 <br>
+<p>🔭 Atualmente trabalho na Pluxee</p>
+  <p>🌱 Estudando Angular e TypeScript</p>
+  <p>⚡ Curiosidade: amo ouvir música e assistir animes</p>
+<br>
 <h3 align="left">🚀 Tecnologias</h3>
 <br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <p>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </p>
+
 </div>
 <br>
 <h3 align="left">🌱 Atualmente Aprendendo</h3>
@@ -68,8 +77,6 @@
   </tr>
 </table>
 
---- 
-
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viannaingrid&theme=aura_dark" alt="GitHub Profile Details Card" height="300px">
 
 </div>
@@ -79,6 +86,23 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viannaingrid&theme=aura_dark&utcOffset=8" alt="GitHub Productive Time Card">
 
 </div>
+<div>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=viannaingrid&theme=bear&hide_border=false" alt="GitHub Streak">
+
+</div>
+
+  <h2>🏆 GitHub Trophies</h2>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=viannaingrid&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  </p>
+<div>
+  
+  <h2>✍️ Frase aleatória de desenvolvedor</h2>
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+  </p>
+</div>
+<br>
 <br>
 <h3 align="center">🤝 Conecte-se comigo</h3>
 <br>
