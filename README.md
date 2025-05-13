@@ -1,6 +1,6 @@
-<h2 align="left">Olá! Como vai? 👋</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7447E&width=435&lines=Ol%C3%A1!+Como+vai%3F%F0%9F%91%8B" alt="Typing SVG" /></a>
 <br>
-<h1 align="left">Meu nome é Ingrid Vianna de Oliveira 💕</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=F72C4B&width=500&lines=Meu+nome+%C3%A9+Ingrid+Vianna+de+Oliveira+%F0%9F%92%95" alt="Typing SVG" /></a>
 <br>
 <h3 align="left">🎓 Sobre Mim</h3>
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlyeGk0cWI2dnF1ZHI4dHB1aDQ3M3BxOXU5Nm9lNzZ4bXpicWc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" alt="Coding gif" />
@@ -48,6 +48,7 @@
 <br>
 <h3 align="left">📊 Estatísticas GitHub</h3>
 <br>
+<br>
 <table>
   <tr>
     <td>
@@ -69,9 +70,15 @@
 
 --- 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viannaingrid&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viannaingrid&theme=aura_dark" alt="GitHub Profile Details Card" height="300px">
 
+</div>
+<br>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viannaingrid&theme=aura_dark" alt="GitHub Stats Card">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viannaingrid&theme=aura_dark&utcOffset=8" alt="GitHub Productive Time Card">
+
+</div>
 <br>
 <h3 align="center">🤝 Conecte-se comigo</h3>
 <br>
