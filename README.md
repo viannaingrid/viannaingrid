@@ -11,8 +11,7 @@
   Estudante de Análise e Desenvolvimento de Sistemas com experiência em suporte técnico e resolução de problemas em ambientes corporativos. Possuo sólidos conhecimentos em HTML, CSS, Sass, JavaScript, TypeScript, SQL e metodologias ágeis como Scrum. Atualmente, estou aprimorando minhas habilidades em MySQL e desenvolvimento front-end, estudando o framework Angular e aprofundando meus conhecimentos em TypeScript. Tenho inglês intermediário e estou em constante evolução para me destacar no mercado de tecnologia.🚀
 </p>
 <br>
-<p>🔭 Atualmente trabalho na Pluxee</p>
-  <p>🌱 Estudando Angular e TypeScript</p>
+  <p>🔭 Atualmente trabalho na Pluxee</p>
   <p>⚡ Curiosidade: amo ouvir música e assistir animes</p>
 <br>
 <h3 align="left">🚀 Tecnologias</h3>
