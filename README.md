@@ -79,23 +79,14 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viannaingrid&theme=aura_dark" alt="GitHub Profile Details Card" height="300px">
 
 </div>
-<br>
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viannaingrid&theme=aura_dark" alt="GitHub Stats Card">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viannaingrid&theme=aura_dark&utcOffset=8" alt="GitHub Productive Time Card">
 
-</div>
-<div>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=viannaingrid&theme=bear&hide_border=false" alt="GitHub Streak">
-
-</div>
 
   <h2>🏆 GitHub Trophies</h2>
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=viannaingrid&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
 <div>
-  
+  <br>
   <h2>✍️ Frase aleatória de desenvolvedor</h2>
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
@@ -121,7 +112,7 @@
 </div>
 <br>
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Visitas no perfil</b></h3>
 </div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/viannaingrid/count.svg?" alt="Visitor Count" />
