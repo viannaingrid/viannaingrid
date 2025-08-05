@@ -1,7 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7447E&width=435&lines=Ol%C3%A1!+Como+vai%3F%F0%9F%91%8B" alt="Typing SVG" /></a>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=F72C4B&width=500&lines=Meu+nome+%C3%A9+Ingrid+Vianna+de+Oliveira+%F0%9F%92%95" alt="Typing SVG" /></a>
-<br>
+<h1>Ingrid Oliveira💻</h1>
 <h3 align="left">🎓 Sobre Mim</h3>
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlyeGk0cWI2dnF1ZHI4dHB1aDQ3M3BxOXU5Nm9lNzZ4bXpicWc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" alt="Coding gif" />
 <p>
@@ -10,10 +7,7 @@
 <p align="left" >
   Estudante de Análise e Desenvolvimento de Sistemas com experiência em suporte técnico e resolução de problemas em ambientes corporativos. Possuo sólidos conhecimentos em HTML, CSS, Sass, JavaScript, TypeScript, SQL e metodologias ágeis como Scrum. Atualmente, estou aprimorando minhas habilidades em MySQL e desenvolvimento front-end, estudando o framework Angular e aprofundando meus conhecimentos em TypeScript. Tenho inglês intermediário e estou em constante evolução para me destacar no mercado de tecnologia.🚀
 </p>
-<br>
-  <p>🔭 Atualmente trabalho na Pluxee</p>
-  <p>⚡ Curiosidade: amo ouvir música e assistir animes</p>
-<br>
+<br/>
 <h3 align="left">🚀 Tecnologias</h3>
 <br>
 <div align="left">
@@ -85,13 +79,6 @@
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=viannaingrid&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
-<div>
-  <br>
-  <h2>✍️ Frase aleatória de desenvolvedor</h2>
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-  </p>
-</div>
 <br>
 <br>
 <h3 align="center">🤝 Conecte-se comigo</h3>
