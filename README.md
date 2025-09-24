@@ -2,7 +2,7 @@
 <h3 align="left">🎓 Sobre Mim</h3>
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlyeGk0cWI2dnF1ZHI4dHB1aDQ3M3BxOXU5Nm9lNzZ4bXpicWc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" alt="Coding gif" />
 <p>
-  Tenho 25 anos e sou estudante de ADS (Análise e desenvolvimento de sistemas)
+  Tenho 26 anos e sou estudante de ADS (Análise e desenvolvimento de sistemas)
 </p>
 <p align="left" >
   Estudante de Análise e Desenvolvimento de Sistemas com experiência em suporte técnico e resolução de problemas em ambientes corporativos. Possuo sólidos conhecimentos em HTML, CSS, Sass, JavaScript, TypeScript, SQL e metodologias ágeis como Scrum. Atualmente, estou aprimorando minhas habilidades em MySQL e desenvolvimento front-end, estudando o framework Angular e aprofundando meus conhecimentos em TypeScript. Tenho inglês intermediário e estou em constante evolução para me destacar no mercado de tecnologia.🚀
@@ -35,7 +35,10 @@
 <br>
 <h3 align="left">🌱 Atualmente Aprendendo</h3>
 <ul>
-  <li>Framework Angular e Typescript</li>
+  <li>Angular e Typescript</li>
+  <li>Figma</li>
+  <li>Storybook</li>
+  <li>React</li>
   <li>Desenvolvimento responsivo e adaptações para dispositivos móveis</li>
 </ul>
 <br>
