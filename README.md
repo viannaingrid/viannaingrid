@@ -51,39 +51,6 @@
   <li><strong>Ferramentas:</strong> GitHub, Active Directory, AnyDesk, VSCode, Postman, Insomnia</li>
 </ul>
 <br>
-<h3 align="left">📊 Estatísticas GitHub</h3>
-<br>
-<br>
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=viannaingrid&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaingrid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viannaingrid&theme=aura_dark" alt="GitHub Profile Details Card" height="300px">
-
-</div>
-
-
-  <h2>🏆 GitHub Trophies</h2>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=viannaingrid&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-  </p>
-<br>
-<br>
 <h3 align="center">🤝 Conecte-se comigo</h3>
 <br>
 <div align="center">
@@ -101,9 +68,3 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <h3><b>📍 Visitas no perfil</b></h3>
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/viannaingrid/count.svg?" alt="Visitor Count" />
-</div>
